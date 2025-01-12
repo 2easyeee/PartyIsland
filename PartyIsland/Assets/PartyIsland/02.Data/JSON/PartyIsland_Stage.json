@@ -1,0 +1,22 @@
+{
+  "PartyIsland_Stage" : [
+    {
+      "stageID": 0,
+      "stageName": "A",
+      "x": 10,
+      "y": 10
+    },
+    {
+      "stageID": 1,
+      "stageName": "B",
+      "x": 10,
+      "y": 10
+    },
+    {
+      "stageID": 2,
+      "stageName": "C",
+      "x": 10,
+      "y": 10
+    }
+  ]
+}
